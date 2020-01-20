@@ -1,0 +1,292 @@
+/* author 
+
+Name: Ahmed Shahriar Masud;
+email:shahriarmasud5@gmail.com;
+
+*/
+
+/*
+
+====Index===
+
+1.Header
+2. hero
+3.Fusce at
+4. Facilisis
+5. Ante Donec
+6. Blandit
+7. Placerat
+
+
+*/
+
+/* Globbal Css */
+
+.{
+	margin: 0px;
+	padding: 0px;
+
+
+}
+
+body{
+
+	font-family: 'Roboto Slab', serif;
+}
+
+h1{
+	font-size: 60px;
+	color: white;
+}
+h2{
+	font-size: 25px;
+	color: white;
+}
+
+h3{
+ 	font-size: 25px;
+	color: #31353e;
+}
+
+h4{
+	font-size: 12px;
+	color: #31353e;
+}
+
+h6{
+	font-size: 25px;
+	color: #31353e;
+}
+
+p{
+font-size: 12px;
+
+
+}
+
+.btn-one{
+	display: block;
+	margin: 0 auto;
+	color: #ab8a83;
+	padding: 20px 55px;
+	border-radius: 50px;
+	margin-bottom: 120px;
+	font-size:22px;
+	border: none;
+}
+
+/* Globbal Css */
+
+
+
+
+
+
+/* Header */
+
+ .nav-head{
+	background-color: #edeff1!important;
+	padding: 45px 0px;
+
+ }
+
+ .nav-link{
+
+ 	color: #31353e;
+
+ }
+
+ .nav-link.js-scroll-trigger.active{
+
+ 	background-color: #dd4b2b;
+ 	padding: 12px 25px;
+ 	border-radius: 40px;
+ 	color: white;
+ }
+
+ /* Hero */
+
+ .hero{
+ 	background: url(../img/hero.png) no-repeat center top;
+ 	background-size: cover;
+ 	text-align: center;
+ 	color: white;
+
+ }
+
+ .hero-main{
+
+ 	padding-bottom: 115px;
+    padding-top: 450px;
+ }
+
+ .item-one{
+ 	padding-bottom: 70px
+
+ }
+
+ .item-one h2{
+ 	padding-bottom: 25px;
+    padding-top: 12px;
+
+ }
+
+ /* News */
+
+ .news-item{
+ 	background-color: #edeff1;
+
+ }
+
+ .news{
+ 	text-align: center;
+ 	padding-top: 50px;
+ 	padding-bottom: 80px;
+ 	
+
+ }
+
+ .btn-two{
+	display: block;
+	margin: 0 auto;
+	color: #31353e;
+	padding: 20px 55px;
+	border-radius: 50px;
+	margin-bottom: 70px;
+	font-size:20px;
+	background-color: #fff;
+	border: none;
+}
+
+.item-two{
+	text-align: center;
+
+}
+
+
+.item-two h3{
+	padding-top: 40px
+
+
+}
+
+.item-two h4{
+	padding: 15px 22px 25px 22px;
+	line-height: 1.6;
+
+}
+
+/* letter */
+
+.item-three{
+
+	background: linear-gradient(rgba(0, 0, 0, 0.8),rgba(19, 18, 18, 0.6)),url(../img/news.png) no-repeat center top;
+ 	background-size: cover;
+ 	text-align: center;
+ 	color: white;
+ 	text-align: center;
+
+}
+
+.letter-item{
+	padding-top: 50px;
+
+
+}
+.news-form{
+
+	padding-bottom: 75px;
+    padding-top: 30px;
+
+}
+.email-form{
+	position: relative;
+    border-radius: 18px;
+    padding: 7px 115px;
+    background: transparent;
+}
+
+.submit-btn{
+
+	border: none;
+    position: absolute;
+    padding: 7px 12px;
+    background: #fff;
+    border-radius: 15px;
+    right: 74px;
+    top: 172px;
+}
+
+/* photo-item */
+
+.photo-item{
+	text-align: center;
+
+
+}
+
+.btn-three{
+	display: block;
+	margin: 0 auto;
+	color: #fff;
+	padding: 10px 40px;
+    border-radius: 30px;
+	margin-bottom: 40px;
+	font-size:20px;
+	background-color: #dd4b2b;
+	margin-top: 30px;
+	border: none;
+
+}
+
+
+.btn-four{
+
+	display: block;
+	margin: 0 auto;
+	color: #fff;
+	padding: 10px 40px;
+    border-radius: 30px;
+	margin-bottom: 40px;
+	font-size:20px;
+	background-color: #4b4e73;
+	margin-top: 30px;
+	border: none;
+
+}
+
+.photo-main{
+	padding-bottom: 80px;
+
+
+
+}
+
+.photo-main h4{
+	line-height: 2.6;
+    padding: 0px 50px;
+}
+
+/* list-item */
+
+.list-item{
+
+background-color: #d75d0e;
+color: white;
+}
+
+.list-main{
+	list-style: none;
+    line-height: 1;
+}
+
+footer{
+background-image: linear-gradient(rgba(0, 0, 0, 0.8),rgba(19, 18, 18, 0.6)),url(../img/footer.png);no-repeat center top;
+background-size: cover;
+color: #fff;
+text-align: center;
+padding-top: 70px;
+padding-bottom: 200px;
+background-color: #fff;
+
+}
